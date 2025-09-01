@@ -20,7 +20,7 @@ AQuaRRAI is modular system to simulate, reconstruct, evaluate, and rank the qual
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/Luis-Valenzuela-Concha/AQUARRAI.git
+git clone https://github.com/Luis-Valenzuela-Concha/AQuaRRAI.git
 cd AQUARRAI
 ```
 
